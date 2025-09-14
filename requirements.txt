@@ -1,9 +1,5 @@
 streamlit==1.37.1
 requests==2.32.3
 pandas==2.2.2
-sqlite3
-pages==0.3
-os
-pathlib
 matplotlib==3.9.2
-pip==25.2
+graphviz==0.20.3

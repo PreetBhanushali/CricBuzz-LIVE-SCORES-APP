@@ -1,0 +1,81 @@
+id,name,start_date,end_date,series_type
+7572,ICC Cricket World Cup League Two 2023-27,2024-02-15,2027-03-30,international
+10267,"Sri Lanka tour of Zimbabwe, 2025",2025-08-29,2025-09-07,international
+10642,United Arab Emirates T20I Tri-Series 2025,2025-08-29,2025-09-07,international
+8788,"South Africa tour of England, 2025",2025-09-02,2025-09-14,international
+10812,Sweden tour of Isle Of Man 2025,2025-09-06,2025-09-07,international
+10587,Asia Cup 2025,2025-09-09,2025-09-28,international
+10917,Mozambique tour of Eswatini 2025,2025-09-12,2025-09-14,international
+10928,Namibia tour of Zimbabwe 2025,2025-09-15,2025-09-18,international
+8802,"England tour of Ireland, 2025",2025-09-17,2025-09-21,international
+10091,"West Indies vs Nepal in UAE, 2025",2025-09-27,2025-09-30,international
+10201,"Australia tour of New Zealand, 2025",2025-10-01,2025-10-04,international
+9629,"West Indies tour of India, 2025",2025-10-02,2025-10-14,international
+10840,Afghanistan vs Bangladesh in UAE 2025,2025-10-02,2025-10-14,international
+10625,ICC Mens T20 World Cup East Asia Pacific Qualifier 2025,2025-10-08,2025-10-17,international
+10504,South Africa tour of Namibia 2025,2025-10-11,2025-10-11,international
+10895,"South Africa tour of Pakistan, 2025",2025-10-12,2025-11-08,international
+10212,"England tour of New Zealand, 2025",2025-10-18,2025-11-01,international
+9596,"India tour of Australia, 2025",2025-10-19,2025-11-08,international
+10223,"West Indies tour of New Zealand, 2025",2025-11-05,2025-12-22,international
+10933,Sri Lanka tour of Pakistan 2025,2025-11-11,2025-11-15,international
+9638,"South Africa tour of India, 2025",2025-11-14,2025-12-19,international
+10906,Pakistan T20I Tri-Series 2025,2025-11-17,2025-11-29,international
+9107,"The Ashes, 2025-26",2025-11-21,2026-01-08,international
+10102,"New Zealand tour of India, 2026",2026-01-11,2026-01-31,international
+10774,England tour of Sri Lanka 2026,2026-01-22,2026-02-03,international
+9551,"West Indies tour of South Africa, 2026",2026-01-27,2026-02-06,international
+10234,"South Africa tour of New Zealand, 2026",2026-03-15,2026-03-25,international
+10559,"New Zealand tour of England, 2026",2026-06-04,2026-06-29,international
+10532,"India tour of England, 2026",2026-07-01,2026-07-19,international
+10565,Pakistan tour of England 2026,2026-08-19,2026-09-09,international
+10576,"Sri Lanka tour of England, 2026",2026-09-15,2026-09-27,international
+9257,T20 Blast 2025,2025-05-29,2025-09-13,league
+9575,Caribbean Premier League 2025,2025-08-14,2025-09-21,league
+10884,"International League T20, 2025-26",2025-12-02,2026-01-04,league
+10289,Big Bash League 2025-26,2025-12-14,2026-01-25,league
+10394,"SA20, 2025-26",2025-12-26,2026-01-25,league
+10763,Super Smash 2025-26,2025-12-26,2026-01-31,league
+9241,Indian Premier League 2026,2026-03-15,2026-05-31,league
+9249,Indian Premier League 2027,2027-03-14,2027-05-30,league
+8993,"ICC CWC Challenge League A, 2024-26",2024-09-25,2026-01-29,domestic
+9001,"ICC CWC Challenge League B, 2024-26",2024-11-06,2026-01-30,domestic
+9360,County Championship Division One 2025,2025-04-04,2025-09-27,domestic
+9369,County Championship Division Two 2025,2025-04-04,2025-09-27,domestic
+9273,England Domestic One-Day Cup 2025,2025-08-05,2025-09-20,domestic
+10311,Duleep Trophy 2025,2025-08-28,2025-09-15,domestic
+9557,"New Zealand A tour of South Africa, 2025",2025-08-30,2025-09-17,domestic
+10829,Australia Domestic One-Day Cup 2025-26,2025-09-16,2026-02-28,domestic
+9935,"Australia A tour of India, 2025",2025-09-16,2025-10-05,domestic
+10636,"India Under 19 tour of Australia, 2025",2025-09-21,2025-10-10,domestic
+10911,CSA Four-Day Series Division Two 2025-26,2025-09-25,2026-02-10,domestic
+10878,CSA Four-Day Series Division One 2025-26,2025-09-25,2026-02-22,domestic
+10300,Irani Cup 2025,2025-10-01,2025-10-05,domestic
+10823,Sheffield Shield 2025-26,2025-10-04,2026-03-29,domestic
+10333,Ranji Trophy Plate 2025-26,2025-10-15,2026-01-26,domestic
+10317,Ranji Trophy Elite 2025-26,2025-10-15,2026-02-28,domestic
+10724,The Ford Trophy 2025-26,2025-10-25,2026-02-22,domestic
+9938,"South Africa A tour of India, 2025",2025-10-30,2025-11-19,domestic
+10730,Plunket Shield 2025-26,2025-11-18,2026-03-30,domestic
+10493,Syed Mushtaq Ali Trophy Elite 2025,2025-11-26,2025-12-18,domestic
+10487,Syed Mushtaq Ali Trophy Plate 2025,2025-11-26,2025-12-06,domestic
+10366,Vijay Hazare Trophy Elite 2025-26,2025-12-24,2026-01-18,domestic
+10377,Vijay Hazare Trophy Plate 2025-26,2025-12-24,2026-01-06,domestic
+10785,Czech Republic Women tour Estonia 2025,2025-09-06,2025-09-07,women
+10141,Womens Caribbean Premier League 2025,2025-09-06,2025-09-17,women
+10702,ICC Womens T20 World Cup East Asia Pacific Qualifier 2025,2025-09-09,2025-09-15,women
+10867,"Luxembourg Womens T20I Tri-Series, 2025",2025-09-12,2025-09-14,women
+9929,"Australia Women tour of India, 2025",2025-09-14,2025-09-20,women
+10845,"South Africa Women tour of Pakistan, 2025",2025-09-16,2025-09-22,women
+10454,ICC Womens World Cup Warm-up Matches 2025,2025-09-25,2025-09-28,women
+10009,ICC Womens World Cup 2025,2025-09-30,2025-11-02,women
+10675,T20 Spring Challenge 2025,2025-10-21,2025-10-30,women
+10405,Womens Big Bash League 2025,2025-11-09,2025-12-13,women
+10146,"Pakistan Women tour of South Africa, 2026",2026-02-10,2026-03-01,women
+9611,"India Women tour of Australia, 2026",2026-02-15,2026-03-06,women
+10245,"Zimbabwe Women tour of New Zealand, 2026",2026-02-25,2026-03-11,women
+10251,"South Africa Women tour of New Zealand, 2026",2026-03-15,2026-04-04,women
+10526,New Zealand Women tour of England 2026,2026-05-10,2026-05-25,women
+10543,India Women tour of England 2026,2026-05-28,2027-07-13,women
+10119,ICC Womens T20 World Cup 2026,2026-06-12,2026-07-05,women
+10548,Ireland Women tour of England 2026,2026-09-01,2026-09-06,women

@@ -1,8 +1,9 @@
-streamlit
-requests
-pandas
+streamlit==1.37.1
+requests==2.32.3
+pandas==2.2.2
 sqlite3
-pages
+pages==0.3
 os
-pip>=25.2
 pathlib
+matplotlib==3.9.2
+pip==24.2

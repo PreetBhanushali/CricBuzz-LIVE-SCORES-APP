@@ -6,4 +6,4 @@ pages==0.3
 os
 pathlib
 matplotlib==3.9.2
-pip==24.2
+pip==25.2

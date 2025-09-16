@@ -112,11 +112,11 @@ def app():
     @st.cache_data
     def load_all_data():
         datasets = {}
-        datasets['batsmen'] = read_csv_robust('Batsmen_stats.csv')
-        datasets['bowlers'] = read_csv_robust('Bowlers_stats.csv')
-        datasets['allrounder_bat'] = read_csv_robust('All Rounder Batting Stats.csv')
-        datasets['allrounder_bowl'] = read_csv_robust('All Rounder Bowling Stats.csv')
-        datasets['players'] = read_csv_robust('Players_Data.csv')
+        datasets['batsmen'] = read_csv_robust('CSV FILES\Batsmen_stats.csv')
+        datasets['bowlers'] = read_csv_robust('CSV FILES\Bowlers_stats.csv')
+        datasets['allrounder_bat'] = read_csv_robust('CSV FILES\All Rounder Batting Stats.csv')
+        datasets['allrounder_bowl'] = read_csv_robust('CSV FILES\All Rounder Bowling Stats.csv')
+        datasets['players'] = read_csv_robust('CSV FILES\Players_Data.csv')
         return datasets
 
     datasets = load_all_data()
@@ -199,4 +199,5 @@ def app():
 
 if __name__ == "__main__":
     app()
+
 

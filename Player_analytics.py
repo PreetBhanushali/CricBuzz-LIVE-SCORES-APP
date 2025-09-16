@@ -8,8 +8,8 @@ def app():
     st.title("🏏 Cricket Player CRUD Application")
 
     # Load datasets
-    players_file = "Players_Data.csv"
-    batsmen_file = "Batsmen_stats.csv"
+    players_file = "CricBuzz-LIVE-SCORES-APP/CSV FILES/Players_Data.csv"
+    batsmen_file = "CricBuzz-LIVE-SCORES-APP/CSV FILES/Batsmen_stats.csv"
 
     if os.path.exists(players_file) and os.path.exists(batsmen_file):
         players_df = pd.read_csv(players_file)
@@ -119,6 +119,7 @@ def app():
 
     else:
         st.error("❌ Players_Data.csv or Batsmen_stats.csv not found!")
+
 
 
 

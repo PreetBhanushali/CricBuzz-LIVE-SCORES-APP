@@ -7,7 +7,7 @@ def app():
 
     # IMPORTANT: Replace "YOUR_RAPIDAPI_KEY_HERE" with your actual RapidAPI key.
     headers = {
-	"x-rapidapi-key": "0fec7b9425mshbc167bba6885159p1b85d7jsna612b835a4f0",
+	"x-rapidapi-key": "b37d0ca250msh43a6d1c56695c89p1cd0b6jsne6fce634cbbf",
 	"x-rapidapi-host": "cricbuzz-cricket.p.rapidapi.com"
 }
 
@@ -77,4 +77,5 @@ def app():
                                     st.write(f"**{team2_name} Score:** {runs}/{wickets} ({overs} overs)")
     else:
         st.warning("No live data available. Please check your API key and network connection.")
+
 

@@ -10,10 +10,10 @@ import matplotlib.pyplot as plt
 def app():
 
     # ---------------- Load Data ----------------
-    batsmen = pd.read_csv("CSV FILES\Batsmen_stats.csv")
-    allrounder_bat = pd.read_csv("CSV FILES\All Rounder Batting Stats.csv")
-    bowlers = pd.read_csv("CSV FILES\Bowlers_stats.csv")
-    allrounder_bowl = pd.read_csv("CSV FILES\All Rounder Bowling Stats.csv")
+    batsmen = pd.read_csv("Batsmen_stats.csv")
+    allrounder_bat = pd.read_csv("All Rounder Batting Stats.csv")
+    bowlers = pd.read_csv("Bowlers_stats.csv")
+    allrounder_bowl = pd.read_csv("All Rounder Bowling Stats.csv")
 
     # Ensure consistent column naming
     if "average" in batsmen.columns:
@@ -97,5 +97,6 @@ def app():
 # Launcher
 if __name__ == "__main__":
     app()
+
 
 

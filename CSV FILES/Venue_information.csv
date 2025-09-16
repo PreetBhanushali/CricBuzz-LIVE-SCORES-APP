@@ -1,0 +1,127 @@
+,id,ground,city,country,timezone,capacity,ends,homeTeam
+0,458,Tribhuvan University International Cricket Ground,Kirtipur,Nepal,+05:45,20000,"Pavillion End, Chobar End",Nepal
+1,153,Dubai International Cricket Stadium,Dubai,United Arab Emirates,+04:00,25000,"Emirates Road End, Dubai Sports City End",United Arab Emirates
+2,1437791,Sportpark Duivesteijn,Voorburg,Netherlands,+02:00,0,,
+3,139,Maple Leaf North-West Ground,King City,Canada,-04:00,0,"Northern End, Southern End",Canada
+4,915,Prairie View Cricket Complex,Houston,United States,-05:00,10000,"Forest End, Highway End",United States of America
+5,1668,Grand Prairie Stadium,Dallas,United States,-05:00,7000,,Texas Super Kings
+6,549,Al Amerat Cricket Ground (Ministry Turf 1),Al Amerat,Oman,+04:00,0,"Al Amerat End, Pavilion End",Oman
+7,270,Central Broward Regional Park Stadium Turf Ground,"Lauderhill, Florida",United States,-04:00,20000,"North End, Pavilion End",United States of America
+8,69,Harare Sports Club,Harare,Zimbabwe,+02:00,10000,"City End, Club House End","Rhodesia, Zimbabwe, Mashonaland"
+9,140,Sharjah Cricket Stadium,Sharjah,United Arab Emirates,+04:00,16000,"Pavilion End, Sharjah Club End",United Arab Emirates
+10,66,Headingley,Leeds,England,+01:00,17000,"Kirkstall Lane End, Football Stand End",Yorkshire
+11,19,Lord's,London,England,+01:00,30000,"Pavilion End, Nursery End","Marylebone Cricket Club, Middlesex"
+12,21,The Rose Bowl,Southampton,England,+01:00,6500,"Pavilion End, Northern End","Hampshire, Hampshire 2nd XI"
+13,62,Sophia Gardens,Cardiff,Wales,+01:00,15000,"River Taff End, Cathedral Road End",Glamorgan
+14,65,Emirates Old Trafford,Manchester,England,+01:00,19000,"Stretford End, Brian Statham End",Lancashire
+15,18,Trent Bridge,Nottingham,England,+01:00,17000,"Pavilion End, Radcliffe Road End",Nottinghamshire
+16,1438142,Cronkbourne Sports and Social Club Ground,Tromode,Isle of Man,+01:00,0,,
+17,94,Sheikh Zayed Stadium,Abu Dhabi,United Arab Emirates,+04:00,20000,"North End, Pavilion End",United Arab Emirates
+18,1877,Malkerns Country Club oval,Malkerns,Eswatini,+02:00,0,,Eswatini
+19,70,Queens Sports Club,Bulawayo,Zimbabwe,+02:00,9000,"City End, Airport End","Zimbabwe, Matabeleland"
+20,393,Bay Oval,Mount Maunganui,New Zealand,+13:00,0,,
+21,50,Narendra Modi Stadium,Ahmedabad,India,+05:30,132000,"Adani Pavilion End, GMDC End","Gujarat, Gujarat Titans"
+22,51,Arun Jaitley Stadium,Delhi,India,+05:30,48000,"Stadium End, Pavilion End","Delhi, Delhi Capitals"
+23,26,Gaddafi Stadium,Lahore,Pakistan,+05:00,27000,"Pavilion End, College End",Lahore
+24,25,Rawalpindi Cricket Stadium,Rawalpindi,Pakistan,+05:00,15000,"Pavilion End, Shell End","Pakistan, Rawalpindi"
+25,30,Iqbal Stadium,Faisalabad,Pakistan,+05:00,25000,"Pavilion End, Golf Course End",Faisalabad
+26,371,Hagley Oval,Christchurch,New Zealand,+13:00,20000,,Canterbury
+27,41,Eden Park,Auckland,New Zealand,+13:00,41000,"Broadcasting End, Terraces End",Auckland
+28,100,Seddon Park,Hamilton,New Zealand,+13:00,10000,"Members End, City End",Northern Districts
+29,42,Sky Stadium,Wellington,New Zealand,+13:00,37000,"Scoreboard End, City End",Wellington and Wellington Firebirds
+30,512,Perth Stadium,Perth,Australia,+08:00,60000,,
+31,40,Adelaide Oval,Adelaide,Australia,+10:30,53583,"City End, Cathedral End",South Australia and Adelaide Strikers
+32,34,Sydney Cricket Ground,Sydney,Australia,+11:00,48000,"Paddington End, Randwick End","New South Wales, Sydney Sixers"
+33,123,Manuka Oval,Canberra,Australia,+11:00,13550,"Pool End, Mall End","Australian Capital Territory, New South Wales, Pri"
+34,87,Melbourne Cricket Ground,Melbourne,Australia,+11:00,100000,"Members End, Great Southern Stand End","Australia, Victoria"
+35,39,Bellerive Oval,Hobart,Australia,+11:00,20000,"Church Street End, River End","Tasmania, Hobart Hurricanes"
+36,1438034,Bill Pippen Oval,Gold Coast,Australia,+10:00,0,,
+37,35,The Gabba,Brisbane,Australia,+10:00,42000,"Stanley Street End, Vulture Street End","Queensland, Brisbane Heat"
+38,372,Saxton Oval,Nelson,New Zealand,+13:00,5000,, Central Districts
+39,116,University Oval,Dunedin,New Zealand,+13:00,3500,"Southern End, Northern End","Otago, Otago Volts"
+40,44,McLean Park,Napier,New Zealand,+13:00,22500,"Centennial Stand End, Embankment End",Central Districts
+41,269,Bert Sutcliffe Oval,Lincoln,New Zealand,+13:00,0,"Pavilion End, City End",New Zealand Academy
+42,45,Basin Reserve,Wellington,New Zealand,+13:00,11600,"Vance Stand End, Scoreboard End",Wellington
+43,31,Eden Gardens,Kolkata,India,+05:30,63000,"High Court End, Pavilion End","Bengal, Kolkata Knight Riders"
+44,380,Barsapara Cricket Stadium,Guwahati,India,+05:30,40000,"Media End, Pavilion End",Assam
+45,291,JSCA International Stadium Complex,Ranchi,India,+05:30,0,,
+46,335,Shaheed Veer Narayan Singh International Stadium,Raipur,India,+05:30,65000,"North End, South End","Delhi Daredevils, Chhattisgarh"
+47,154,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Visakhapatnam,India,+05:30,28000,"Vizzy End, DV Subba Rao End",Andhra
+48,103,Barabati Stadium,Cuttack,India,+05:30,45000,"Mahanadi River End River End, Pavilion End","India, Odisha"
+49,851,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",New Chandigarh,India,+05:30,38000,,"Punjab, Punjab Kings"
+50,155,Himachal Pradesh Cricket Association Stadium,Dharamsala,India,+05:30,23000,"River End, College End","Himachal Pradesh, Punjab Kings"
+51,485,Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium,Lucknow,India,+05:30,50000,,"Uttar Pradesh, Lucknow Super Giants"
+52,1843,BCA Stadium,Vadodara,India,+05:30,0,,
+53,290,Niranjan Shah Stadium,Rajkot,India,+05:30,28000,,Saurashtra
+54,152,Holkar Cricket Stadium,Indore,India,+05:30,0,"GAIL-Madhav Rao Scindia End, Pavilion End",Madhya Pradesh
+55,506,Greenfield International Stadium,Thiruvananthapuram,India,+05:30,50000,,
+56,15,R.Premadasa Stadium,Colombo,Sri Lanka,+05:30,35000,"Khettarama End, Scoreboard End",Sri Lanka
+57,254,Pallekele International Cricket Stadium,Pallekele,Sri Lanka,+05:30,35000,"Hunnasgiriya End, Rikillagaskada End",Kandurata 
+58,207,Boland Park,Paarl,South Africa,+02:00,10000,"Riebeeck Kelders End, Stables End",Boland
+59,52,Newlands,Cape Town,South Africa,+02:00,25000,"Wynberg End, Kelvin Grove End",Western Province
+60,99,Buffalo Park,East London,South Africa,+02:00,15000,"Buffalo Park Drive End, Bunkers Hill End",Border
+61,75,SuperSport Park,Centurion,South Africa,+02:00,22000,"Pavilion End, Hennops River End","Northern Transvaal, Northerns"
+62,88,The Wanderers Stadium,Johannesburg,South Africa,+02:00,34000,"Corlett Drive End, Golf Course End","Gauteng, Transvaal"
+63,12,Kennington Oval,London,England,+01:00,23500,"Pavilion End, Vauxhall End","England, Surrey"
+64,60,Riverside Ground,Chester-le-Street,England,+01:00,5000,"Finchale End, Lumley End",Durham
+65,63,County Ground,Bristol,England,+01:00,7000,"Pavilion End, Ashley Down Road End",Gloucestershire
+66,20,Edgbaston,Birmingham,England,+01:00,21000,"City End, Pavilion End",Warwickshire
+67,222,Grace Road,Leicester,England,+01:00,12000,"Pavilion End, Bennett End",Leicestershire
+68,223,The Cooper Associates County Ground,Taunton,England,+01:00,6500,"River End, Old Pavilion End",Somerset
+69,225,New Road,Worcester,England,+01:00,4500,"New Road End, Diglis End",Worcestershire
+70,118,County Ground,Chelmsford,England,+01:00,6500,"River End, Hayes Close End",Essex
+71,119,County Ground,Northampton,England,+01:00,6500,"Wantage Road End, Lynn Wilson Centre End",Northamptonshire
+72,292,County Ground,Hove,England,+01:00,4000,"Cromwell Road End, Sea End",Sussex
+73,226,County Ground,Derby,England,+01:00,9500,"Grandstand End, Scoreboard End",Derbyshire
+74,67,St Lawrence Ground,Canterbury,England,+01:00,15000,"Pavilion End, Nackington Road End",Kent
+75,352,College Ground,Cheltenham,England,+01:00,4000,"Chapel End, College Lawn End",Gloucestershire
+76,96,Warner Park,"Basseterre, St Kitts",West Indies,-04:00,8000,"Pavillion End, Lozack Road End",Leeward Islands
+77,109,Sir Vivian Richards Stadium,"North Sound, Antigua",West Indies,-04:00,10000,"Media Centre End, Pavilion End","Antigua and Barbuda, Leeward Islands"
+78,59,Daren Sammy National Cricket Stadium,"Gros Islet, St Lucia",West Indies,-04:00,20000,"Pavilion End, Media Centre End",West Indies
+79,500,Brian Lara Stadium,"Tarouba, Trinidad",West Indies,-04:00,15000,,
+80,55,Kensington Oval,"Bridgetown, Barbados",West Indies,-04:00,28000,"Malcolm Marshall End, Joel Garner End",Barbados
+81,110,Providence Stadium,Guyana,West Indies,-04:00,15000,"Media Centre End, Pavillion End",
+82,453,Simonds Stadium,Geelong,Australia,+11:00,0,,Victoria
+83,396,Sydney Showground Stadium,Sydney,Australia,+11:00,0,,
+84,33,Docklands Stadium,Melbourne,Australia,+11:00,48000,"Lockett End, Coventry End",Australia
+85,74,Kingsmead,Durban,South Africa,+02:00,25000,"Umgeni End, Old Fort End","KwaZulu-Natal, Natal"
+86,73,St George's Park,Gqeberha,South Africa,+02:00,19000,"Duckpond End, Park Drive End",Eastern Province
+87,423,Molyneux Park,Alexandra,New Zealand,+13:00,0,,Otago
+88,418,Eden Park Outer Oval,Auckland,New Zealand,+13:00,0,"City End, Sandringham End",Auckland
+89,97,Gymkhana Club Ground,Nairobi,Kenya,+03:00,7000,"City End, Forest Road End","East Africa, Kenya"
+90,262,Ruaraka Sports Club Ground,Nairobi,Kenya,+03:00,0,"Thika Road End, Mathare Valley End",Kenya
+91,936,Grainville,St Saviour,Jersey,+01:00,0,,"Jersey, Channel Islands"
+92,1566,Farmers Cricket Club Ground,St Martin,Jersey,+01:00,0,,Farmers Cricket Club Ground The Farmers Field Rue 
+93,1563,Grainville,St Saviour,Jersey,+01:00,0,,Channel Islands
+94,1438000,Kowloon Cricket Club,Kowloon,Hong Kong,+08:00,1000,"Clubhouse End, Bowling Club End",Hong Kong
+95,220,North Marine Road Ground,Scarborough,England,+01:00,11500,"Pavilion End, Trafalgar Square End",Yorkshire
+96,957,The Gnoll Cricket Ground,"Neath, Wales",England,+01:00,6000,"Llantwit Road End, Dyfed Road End",Glamorgan
+97,349,Arundel Castle,Arundel,England,+01:00,6000,"Park End, Castle End","Marylebone Cricket Club, Sussex"
+98,280,Aigburth,Liverpool,England,+01:00,3000,"Aigburth Road End, River End",Lancashire
+99,1438087,BCCI Centre of Excellence Ground,Bengaluru,India,+05:30,0,,
+100,1438102,BCCI Centre of Excellence Ground B,Bengaluru,India,+05:30,0,,
+101,1360,Tshwane University of Technology Oval,Pretoria,South Africa,+02:00,0,,Northern Transvaal
+102,367,LC de Villiers Oval,Pretoria,South Africa,+02:00,0,,
+103,102,Senwes Park,Potchefstroom,South Africa,+02:00,0,"Cargo Motors End, University End","South Africa, North West"
+104,300,Allan Border Field,Brisbane,Australia,+10:00,4500,"Crosby Road End, Albion Park End",Queensland
+105,527,Karen Rolton Oval,"Adelaide, South Australia",Australia,+10:30,0,"Cnr Port, Goal Roads",Australian Cricket Academy
+106,38,W.A.C.A. Ground,Perth,Australia,+08:00,22000,"Members End, Prindiville Stand End","Western Australia, Western Australia Women"
+107,122,Junction Oval,Melbourne,Australia,+11:00,8000,"City End, St Kilda End",Victoria
+108,32,Green Park,Kanpur,India,+05:30,45000,"Mill Pavilion End, Hostel End",Uttar Pradesh
+109,732,Ian Healy Oval,Brisbane,Australia,+10:00,0,,Northern Suburbs (Brisbane)
+110,439,Great Barrier Reef Arena,Mackay,Australia,+10:00,0,,Queensland
+111,135,Willowmoore Park,Benoni,South Africa,+02:00,20000,"Chalet End, Ekurhuleni End","South Africa, Easterns"
+112,72,Mangaung Oval,Bloemfontein,South Africa,+02:00,20000,"Loch Logan End, Willows End","Free State, Orange Free State"
+113,148,Diamond Oval,Kimberley,South Africa,+02:00,11000,"North End, South End",Griqualand West
+114,206,City Oval,Pietermaritzburg,South Africa,+02:00,12000,"Duzi End, Hulett End","KwaZulu-Natal, Natal"
+115,208,Pukekura Park,New Plymouth,New Zealand,+13:00,0,"South Terrace End, North City End",Central Districts
+116,420,Mainpower Oval,Rangiora,New Zealand,+13:00,0,,
+117,281,Cobham Oval (New),Whangarei,New Zealand,+12:00,0,,
+118,82,John Davies Oval,Queenstown,New Zealand,+13:00,19000,"Remarkables End, Coronet Peak End","New Zealand, Otago"
+119,505,Cobham Oval,Whangarei,New Zealand,+13:00,0,,Northern Districts
+120,1438120,Albert Park 1,Suva,Fiji,+12:00,0,,
+121,1438123,Albert Park 2,Suva,Fiji,+12:00,0,,
+122,27,M.Chinnaswamy Stadium,Bengaluru,India,+05:30,40000,"Pavilion End, BEML End","Karnataka, Royal Challengers Bengaluru"
+123,256,Colombo Cricket Club Ground,Colombo,Sri Lanka,+05:30,6000,"Press Box End, Pavilion End",Colombo Cricket Club
+124,132,Dr DY Patil Sports Academy,Navi Mumbai ,India,+05:30,60000,"Media End, Pavilion End",
+125,301,North Sydney Oval,Sydney,Australia,+11:00,20000,"Fig Tree End, Scoreboard End","New South Wales, North Sydney"

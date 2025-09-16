@@ -6,17 +6,17 @@ def app():
     
     # Define a dictionary to map user-friendly names to file paths
     data_files = {
-        "All Rounder Batting Stats": "All Rounder Batting Stats.csv",
-        "All Rounder Bowling Stats": "All Rounder Bowling Stats.csv",
-        "All Teams": "All_teams.csv",
-        "Batsmen Stats": "Batsmen_stats.csv",
-        "Bowlers Stats": "Bowlers_stats.csv",
-        "Cricket Series": "Cricket_Series.csv",
-        "Players Data": "Players_Data.csv",
-        "Venue Details": "Venue_details.csv",
-        "Venue Information": "Venue_information.csv",
-        "Overall Bowlers Stats": "Overall_Bowlers_stats.csv",
-        "Overall Batsman Stats": "Overall_batsman_stats.csv",
+        "All Rounder Batting Stats": "CSV FILES\All Rounder Batting Stats.csv",
+        "All Rounder Bowling Stats": "CSV FILES\All Rounder Bowling Stats.csv",
+        "All Teams": "CSV FILES\All_teams.csv",
+        "Batsmen Stats": "CSV FILES\Batsmen_stats.csv",
+        "Bowlers Stats": "CSV FILES\Bowlers_stats.csv",
+        "Cricket Series": "CSV FILES\Cricket_Series.csv",
+        "Players Data": "CSV FILES\Players_Data.csv",
+        "Venue Details": "CSV FILES\Venue_details.csv",
+        "Venue Information": "CSV FILES\Venue_information.csv",
+        "Overall Bowlers Stats": "CSV FILES\Overall_Bowlers_stats.csv",
+        "Overall Batsman Stats": "CSV FILES\Overall_batsman_stats.csv",
     }
     
     # Create a selectbox for the user to choose a table
@@ -39,5 +39,6 @@ def app():
             st.error(f"File not found: {file_path}. Please make sure the file is uploaded.")
         except Exception as e:
             st.error(f"An error occurred while loading the data: {e}")
+
 
 
